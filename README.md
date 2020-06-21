@@ -18,6 +18,18 @@ Replace sample content with your own and [configure as necessary](https://mmista
 
 ---
 
+## How to start
+
+```
+# run once to install bundler and jekyll
+gem install bundler jekyll
+
+# install gems in Gemfile
+bundle install
+# start local server
+bundle exec jekyll serve
+```
+
 ## Troubleshooting
 
 If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
