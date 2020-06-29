@@ -26,7 +26,7 @@ gem install bundler jekyll
 
 # install gems in Gemfile
 bundle install
-# start local server
+# start local server, add --verbose to have more debugging information
 bundle exec jekyll serve
 ```
 
